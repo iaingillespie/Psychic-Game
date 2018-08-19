@@ -1,0 +1,20 @@
+h1 {
+    color: white;
+    text-align: center
+}
+
+body {
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+p {
+    font-weight: bold;
+    text-align: center
+}
+
+#alakazam {
+   margin: auto;
+    height: 300px;
+    width: auto;
+    }
